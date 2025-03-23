@@ -6,8 +6,8 @@ Backroad App is a simple yet visually appealing website built with React. It fea
 
 <div style=" disply:flex; justify-content: center; margin: 0 auto">
 <img src="/src/images/HTML5_logo_and_wordmark.svg.png" alt="Description" width="80px" >
-<img src="CSS-Logo.png" alt="Description" width="130px" >
-<img src="JavaScript-Logo-2048x1280.png" alt="Description" width="130px" >
- <img src="react.png" alt="Description" width="100px" >
+<img src="/src/images/CSS-Logo.png" alt="Description" width="130px" >
+<img src="/src/images/JavaScript-Logo-2048x1280.png" alt="Description" width="130px" >
+ <img src="/src/images/react.png" alt="Description" width="100px" >
 </div>
  
